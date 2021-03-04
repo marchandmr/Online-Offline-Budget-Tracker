@@ -7,7 +7,7 @@
   this application allows the user to keep up with their expenses even when they are offline.
 
 
-![](public/icons/screenshot.png)
+
 
 
   ## Table Of Contents
@@ -16,6 +16,10 @@
   * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
+
+
+![](public/icons/screenshot.png)
+
 
   ## Installation
 
